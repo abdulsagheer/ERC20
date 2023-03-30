@@ -9,5 +9,7 @@ module.exports = {
 		currency: "INR",
 		noColors: true,
 		outputFile: "gasReport.txt",
+		coinmarketcap: "<insert your api key from coinmarketcap here>",
+		token: "matic",
 	},
 };
